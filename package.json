@@ -1,0 +1,21 @@
+{
+    "name": "primer_proyecto-hola_mundo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "lint": "eslint **.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "colors": "^1.4.0",
+        "command-line-args": "^5.1.1"
+    },
+    "devDependencies": {
+        "eslint": "^7.22.0"
+    }
+}
